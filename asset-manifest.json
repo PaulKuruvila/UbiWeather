@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/UbiWeather/static/css/main.37c27a24.chunk.css",
+    "main.js": "/UbiWeather/static/js/main.3bf4dd0a.chunk.js",
+    "main.js.map": "/UbiWeather/static/js/main.3bf4dd0a.chunk.js.map",
+    "runtime-main.js": "/UbiWeather/static/js/runtime-main.ad80c6f6.js",
+    "runtime-main.js.map": "/UbiWeather/static/js/runtime-main.ad80c6f6.js.map",
+    "static/js/2.821a6d89.chunk.js": "/UbiWeather/static/js/2.821a6d89.chunk.js",
+    "static/js/2.821a6d89.chunk.js.map": "/UbiWeather/static/js/2.821a6d89.chunk.js.map",
+    "index.html": "/UbiWeather/index.html",
+    "static/css/main.37c27a24.chunk.css.map": "/UbiWeather/static/css/main.37c27a24.chunk.css.map",
+    "static/js/2.821a6d89.chunk.js.LICENSE.txt": "/UbiWeather/static/js/2.821a6d89.chunk.js.LICENSE.txt",
+    "static/media/Navbar.css": "/UbiWeather/static/media/weather_app_icon.f4e96369.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad80c6f6.js",
+    "static/js/2.821a6d89.chunk.js",
+    "static/css/main.37c27a24.chunk.css",
+    "static/js/main.3bf4dd0a.chunk.js"
+  ]
+}
