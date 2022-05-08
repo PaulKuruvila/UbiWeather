@@ -5,8 +5,6 @@ import Form from '../Form.js';
 
 function Navbar() {
 
-    const [cityName, setCity] = useState("");
-
     return (
         <nav>
             <ul className="NavItems">
@@ -14,10 +12,10 @@ function Navbar() {
                     <div className="TitleLogo"></div>
                     <h1 className="TitleText">UbiWeather</h1>
                 </li>
-                <Form cityName={cityName} setCity={setCity} />
+                <Form />
                 <li className="Icons">
-                    <a href="https://github.com/PaulKuruvila" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a>
-                    <a href="https://linkedin.com/in/paulkuruvila" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://github.com/PaulKuruvila" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/paulkuruvila" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
                 </li>
             </ul>
         </nav>

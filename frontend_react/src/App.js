@@ -1,11 +1,11 @@
-import React from 'react';
+import React, {useState} from 'react';
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
 import Display from './components/Display/Display';
 
 function App() {
 
-  const cityName = "Sugar Land";
+  const [cityName, setCity] = useState('Sugar Land');
 
   return (
     <div className="App">
